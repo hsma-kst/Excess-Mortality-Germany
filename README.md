@@ -1,4 +1,4 @@
-Hier ein paar Daten, die aus der Human Mortality Database gezogen und ins csv-Format transformiert wurden.
+Hier ein paar Daten (im Verzeichnis "refined HMD data"), die aus der Human Mortality Database gezogen und ins csv-Format transformiert wurden.
 
 Zu den Länderkürzeln:
 
