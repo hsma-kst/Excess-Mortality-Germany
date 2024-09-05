@@ -3,6 +3,8 @@ Hier ein paar Daten (im Verzeichnis "refined HMD data"), die aus der Human Morta
 Zu den Länderkürzeln:
 
 * DEUDEST: Deutschland, für 2021-23 ergänzt durch Destatis-Daten
+* DNK: Dänemark
+* SWE: Schweden
 
 Die Buchstaben hinter den Länderkürzeln beziehen sich auf das Schema der Altersgruppen
 
